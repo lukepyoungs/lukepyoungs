@@ -8,9 +8,6 @@ I'm an **Electrical & Computer Engineering graduate** with a passion for **Machi
 - Frameworks & Libraries: TensorFlow, PyTorch, SKLearn, Pandas, Numpy
 - Other Tools: LDRA Tool Suite, MATLAB, MongoDB, Git
 
-## 📈 GitHub Stats
-![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukepyoungs&show_icons=true&theme=dark)
-
 ## 🏆 Projects
 
 ### [Project 1: Predicting Housing Prices](https://github.com/lukepyoungs/housing-price-predictor)
@@ -26,8 +23,12 @@ course was a place where I found refuge during the pandemic, and the sport has b
 
 ## 📫 Let's Connect
 
-- [LinkedIn][(https://www.linkedin.com/in/luke-youngs-285216198/]
+- [LinkedIn](https://www.linkedin.com/in/luke-youngs-285216198/)
 - [Email me](mailto:youlukep@gmail.com)
+
+
+## 📈 GitHub Stats
+![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukepyoungs&show_icons=true&theme=dark)
 
 <!--
 **lukepyoungs/lukepyoungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
