@@ -1,4 +1,4 @@
-# Hi there, I'm Luke Youngs! 👋
+# Hello, I'm Luke Youngs! 👋
 
 I'm an **Electrical & Computer Engineering graduate** with a passion for **Machine Learning**, **Signal Processing**, and **Embedded Systems**. I enjoy building innovative projects, working in teams, and learning new technologies. When I am not engineering, I can always be found at the nearest golf course :)
 
