@@ -1,6 +1,6 @@
 # Hi there, I'm Luke Youngs! 👋
 
-I'm an **Electrical Computer Engineering graduate** with a passion for **Machine Learning**, **Signal Processing**, and **Embedded Systems**. I enjoy building innovative projects, working in teams, and learning new technologies. When I am not engineering, I can always be found at the nearest golf course :)
+I'm an **Electrical & Computer Engineering graduate** with a passion for **Machine Learning**, **Signal Processing**, and **Embedded Systems**. I enjoy building innovative projects, working in teams, and learning new technologies. When I am not engineering, I can always be found at the nearest golf course :)
 
 ## 🔧 Technologies & Tools
 
@@ -19,7 +19,7 @@ I'm an **Electrical Computer Engineering graduate** with a passion for **Machine
 ### [Project 2: Embedded Systems Project](https://github.com/lukepyoungs/embedded-systems-project)
 - Conducted static analysis code testing of avionic systems using LDRA Tool Suite.
 
-## ⚡ Fun fact about me
+## ⛳️ Fun fact about me
 
 Over the last 7 years, I have really enjoyed competing in golf. Throughout this time, I have developed a solid golf game, as well as many interpersonal skills. The golf
 course was a place where I found refuge during the pandemic, and the sport has been great for my mental health through the practice of mindfulness. I always love discussing anything golf, feel free to reach out!
