@@ -10,11 +10,11 @@ I'm an **Electrical & Computer Engineering graduate** from **UT Austin** with a 
 
 ## 🏆 Projects
 
-### [Project 1: Predicting Housing Prices](https://github.com/lukepyoungs/housing-price-predictor)
-- Developed a machine learning model with Gradient Boosting to achieve 90%+ accuracy.
+### [Project 1: AI Golf Swing Analysis: PureAI](https://github.com/lukepyoungs/PureAI)
+- Developed a machine learning model with TensorFlow to analyze golf swing videos
 
-### [Project 2: Embedded Systems Project](https://github.com/lukepyoungs/embedded-systems-project)
-- Conducted static analysis code testing of avionic systems using LDRA Tool Suite.
+### [Project 2: React.JS Portfolio](https://github.com/lukepyoungs/ReactPortfolio)
+- Created sleek looking website in React.js to showcase projects and resume
 
 ## ⛳️ Fun fact about me
 
