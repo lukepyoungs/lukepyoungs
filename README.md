@@ -26,11 +26,6 @@ course was a place where I found refuge during the pandemic, and the sport has b
 - [LinkedIn](https://www.linkedin.com/in/luke-youngs-285216198/)
 - [Email me](mailto:youlukep@gmail.com)
 
-
-## 📈 GitHub Stats
-![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukepyoungs&show_icons=true&theme=dark)
-
-<!--
 **lukepyoungs/lukepyoungs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
